@@ -21,7 +21,7 @@
 //     }
 // }
 /**
- * Runtime: 125ms
+ * Runtime: 121ms
  */
 class Palindrome {
     public boolean isPalindrome(int x) {
